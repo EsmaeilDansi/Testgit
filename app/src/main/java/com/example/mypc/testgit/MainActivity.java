@@ -14,5 +14,6 @@ public class MainActivity extends AppCompatActivity
         setContentView(R.layout.activity_main);
         Toast.makeText(getApplicationContext(),"branch1",Toast.LENGTH_LONG).show();
         Toast.makeText(getApplicationContext(),"Branch2",Toast.LENGTH_LONG).show();
+        int i=0;
     }
 }
